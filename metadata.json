@@ -1,0 +1,8 @@
+{
+  "name": "AI Sentinel",
+  "description": "A high-tech multimedia AI content detector that analyzes images, videos, audio, and text using forensic GenAI markers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MULTIMODAL_AI_ANALYSIS"
+  ]
+}
